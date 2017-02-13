@@ -26,10 +26,19 @@ div.scrollmenu a:hover {
 .lil-rems{
     font-size: 1.3rem !important;
 }
-.light-font{
-    font-weight: 50;
+.font-100{
+    font-weight: 100;
 }
 .nav-border{
     border-bottom: #e0e0e0 solid;
     border-width: 1px;
+}
+.light-font{
+    font-weight: 300;
+}
+.font-200{
+    font-weight: 200;
+}
+.nav-colour{
+    background-color: #333;
 }
