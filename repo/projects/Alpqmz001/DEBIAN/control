@@ -1,0 +1,7 @@
+Package: com.alpqmz.alpqmz001
+Name: alpqmz 001
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A basic html theme with day and date\
+Author: Rafeh <contact@rafeh.me>
+Section: Tweaks
