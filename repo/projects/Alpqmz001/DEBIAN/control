@@ -1,7 +1,0 @@
-Package: com.alpqmz.alpqmz001
-Name: alpqmz 001
-Version: 1.0.1
-Architecture: iphoneos-arm
-Description: A basic html theme with day and date. Saves in SBHTML folder. I've only tested this with XENHTML
-Author: Rafeh <contact@rafeh.me>
-Section: Tweaks
