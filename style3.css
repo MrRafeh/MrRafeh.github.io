@@ -1,0 +1,29 @@
+body{
+    font-family: 'Source Sans Pro' !important; 
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(62deg, rgba(255,165,150,0.502) 11%, rgba(0,228,255,0.353) 100%), url(./mountains.jpeg);
+    background-position: 0% 0%, center;
+    background-repeat: repeat, no-repeat;
+    background-size: cover, cover;
+    background-attachment: scroll;
+    background-color: #FFFFFF;
+}
+.letterspace{
+    letter-spacing: 4px;
+}
+.smallbottompad{
+    padding: 6px 0;
+}
+.main-body{
+    max-height:150px;
+    overflow:hidden;
+    text-overflow: ellipsis;
+    content: "";
+    background: -webkit-linear-gradient(top,#000 70%, #fff);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+.lilheader{
+    font-size: 1.5rem;
+}
